@@ -1,0 +1,21 @@
+{
+ "big_w": 100,
+ "big_h": 170,
+ "hour_x": 170,
+ "hour_y": 18,
+ "min_x": 170,
+ "min_y": 200,
+ "ring_x": 64,
+ "ring_r": 46,
+ "ring_w": 10,
+ "bat_y": 66,
+ "step_y": 176,
+ "heart_y": 284,
+ "wx_y": 392,
+ "date_y": 392,
+ "week_x": 150,
+ "month_x": 248,
+ "day_x": 312,
+ "sm_w": 18,
+ "sm_h": 30
+}
