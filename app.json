@@ -1,7 +1,7 @@
 {
   "configVersion": "v3",
   "app": {
-    "appId": 1080001,
+    "appId": 1136775,
     "appName": "Volt",
     "appType": "watchface",
     "version": { "code": 1, "name": "1.0.0" },
